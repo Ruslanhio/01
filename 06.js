@@ -1,4 +1,4 @@
 function timesFive(n) {
-  return n * 3;
+  return n * 9;
 }
-const answer = timesFive(3);
+const answer = timesFive(9);
