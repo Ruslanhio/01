@@ -22,4 +22,8 @@ function processArg(num) {
 }
 processed = processArg(7);
 
+let myString = "Hello, World!";
+let myRegex = /Hello/;
+let result = myRegex.test(myString);
+
  
