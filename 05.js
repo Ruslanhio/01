@@ -1,7 +1,7 @@
-let sum = 0;
+let sum = 1;
 
 function addThree() {
-  sum = sum + 3;
+  sum = sum + 2;
 }
 
 // Only change code below this line
